@@ -15,7 +15,7 @@ public class Main {
             words.add(in.next());
         }
 
-//        System.out.println("words = " + words);
+//        System.out.println("words = " + words); 
         System.out.println("Word list size: " + words.size());
         System.out.print("Input the percentage of words that should get through: ");
         Scanner cin = new Scanner(System.in);
